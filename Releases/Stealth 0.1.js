@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name           Stealth Beta
 // @author         LoLxBoi
-// @namespace      https://greasyfork.org/en/users/170259-lolxboi
 // @version        Beta 0.1
 // @description    Custom HUD + AutoHeal | Hat Menu | Hacking in Style
 // @require        http://code.jquery.com/jquery-3.3.1.min.js
